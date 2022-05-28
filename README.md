@@ -1,6 +1,4 @@
-# FEMALE-JARVIS
-
-<img src="https://img.shields.io/badge/NMR-Welcome-brightgreen" alt="NMR Welcome" /> <a href="https://github.com/Neel14-stack" target="_blank">
+# FEMALE-JARVIS 🚺
 
 ## Overview 📝
 I created a **FEMALE JARVIS** which can perform most of my bid like
@@ -21,3 +19,10 @@ I created a **FEMALE JARVIS** which can perform most of my bid like
 * Questions Answers regarding anything
 * Location 
 * Control System Logout, Restart, Shutdown Function ...... and many more
+
+  
+## Female-Jarvis Video 📷
+  
+
+https://user-images.githubusercontent.com/54886608/170821562-434c63be-397a-493d-8447-6137570a88e1.mp4
+
